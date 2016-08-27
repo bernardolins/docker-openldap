@@ -1,4 +1,4 @@
-NAME = osixia/openldap
+NAME = bernardolins/openldap
 VERSION = 1.1.5
 
 .PHONY: all build build-nocache test tag_latest release
